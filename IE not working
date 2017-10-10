@@ -1,0 +1,4 @@
+add meta tag:
+  <meta http-equiv= x-ua-compatible content= ie=edge chrome=1>
+or
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
